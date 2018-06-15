@@ -1,1 +1,1 @@
-wis_assignment
+Web Information System Assignment2 TU-Clausthal Clausthal-Zellerfeld Germany
